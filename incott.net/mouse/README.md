@@ -1,2 +1,2 @@
-Tested
-- [x] Incott G23
+Tested Devices
+- Incott G23
